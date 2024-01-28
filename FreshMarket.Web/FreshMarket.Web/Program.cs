@@ -8,6 +8,7 @@ namespace FreshMarket.Web
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2VlhhQlJCfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hSn9Sd0xjWHpacHFdRGNY");
 
             var app = builder.Build();
 
