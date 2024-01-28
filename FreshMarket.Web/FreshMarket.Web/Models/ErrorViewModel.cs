@@ -1,4 +1,4 @@
-namespace FreshMarket.Web.Models
+namespace Lesson11.Models
 {
     public class ErrorViewModel
     {
